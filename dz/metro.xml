@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bank>
+    <clients>
+        <client>
+            <firstName>Элина</firstName>
+            <lastName>Шамсиева</lastName>
+            <phoneNumber></phoneNumber>
+            <accounts>
+                <account>
+                    <accountNumber>876545</accountNumber>
+                    <balance>5.0</balance>
+                </account>
+            </accounts>
+        </client>
+        <client>
+            <firstName>Артем</firstName>
+            <lastName>Филькин</lastName>
+            <phoneNumber></phoneNumber>
+        </client>
+    </clients>
+</bank>
