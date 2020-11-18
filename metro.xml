@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metro>
+    <clients>
+        <client>
+            <balance>44.0</balance>
+            <firstName>Булат</firstName>
+            <lastName>ГУзаиров</lastName>
+            <phoneNumber>56765433</phoneNumber>
+        </client>
+        <client>
+            <balance>110.0</balance>
+            <firstName>Олег</firstName>
+            <lastName>Борисов</lastName>
+            <phoneNumber>345465356</phoneNumber>
+        </client>
+        <client>
+            <balance>66.0</balance>
+            <firstName>Данил</firstName>
+            <lastName>Гарбажий</lastName>
+            <phoneNumber>99876547</phoneNumber>
+        </client>
+    </clients>
+</metro>
