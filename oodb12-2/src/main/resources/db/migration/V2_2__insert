@@ -1,0 +1,3 @@
+insert into Cashier (id, name, lastname, shift) values
+((nextval('cashier_seq')),'ELina','Shamsieva','Night'),
+((nextval('cashier_seq')),'Olya','Ivanova','Day');
